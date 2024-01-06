@@ -7,4 +7,6 @@ function aaaa(e) {
     document.getElementById('ABC').insertBefore(A, null);
     const pop = new Audio('pop.mp3');
     pop.play();
+    const pushu = new Audio('pushu.mp3')
+    setTimeout('pushu.play()',1300);
 }
