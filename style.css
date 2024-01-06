@@ -6,7 +6,7 @@
     left: 0px;
 }
 .A {
-    background-color: black;
+    background-color: red;
     position: absolute;
     border-radius: 10px;
     width: 50px;
@@ -18,5 +18,6 @@
     to {
         top: 100%;
         transform: rotate(90deg);
+        background-color: black;
     }
 }
